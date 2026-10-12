@@ -244,6 +244,29 @@ An experimental developer portfolio inspired by Minecraft, combining game-inspir
 
 </div>
 
+## 🟩 Contribution Activity
+
+<div align="center">
+
+### 💚 Every contribution counts
+
+<img src="https://ghchart.rshah.org/00FF66/harshitmuit-lab" alt="Harshit's GitHub contribution graph in green" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitmuit-lab&bg_color=0d1117&color=00ff66&line=00ff66&point=39ff14&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**🟢 Code · Commit · Learn · Repeat**
+
+</div>
+
+
 
 ## 📊 GitHub Analytics
 
