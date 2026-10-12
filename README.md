@@ -1,177 +1,190 @@
-```{=html}
-<!--
-  PROFILE README SETUP
-  1. Create a PUBLIC GitHub repository with the exact same name as your GitHub username.
-  2. Put this README.md in the repository root.
-  3. Replace every placeholder (YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, YOUR_EMAIL).
-  4. Optional: upload the included banner to the repository at assets/github-banner.png.
--->
-```
-::: {align="center"}
-```{=html}
-<!-- Optional custom banner: upload assets/github-banner.png to your profile repository first. -->
-```
-`<img src="./assets/github-banner.png" alt="Harshit — AI and Full-Stack Developer" width="100%" />`{=html}
-`<br/>`{=html}
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+%26+Full-Stack+Developer;Building+useful+things+with+code;Exploring+Voice+AI+%26+Automation;Learn.+Build.+Ship.+Repeat." alt="Typing animation" />`{=html}
-```{=html}
-<p>
-```
-`<a href="https://github.com/YOUR_GITHUB_USERNAME">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="GitHub profile" />`{=html}
-`</a>`{=html} `<a href="YOUR_LINKEDIN_URL">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />`{=html}
-`</a>`{=html} `<a href="mailto:YOUR_EMAIL">`{=html}
-`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-![Profile](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=38BDF8)
-![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=38BDF8&label=Followers)
-:::
----
-👋 Hey, I'm Harshit!
-I'm a Computer & Data Science student interested in building
-practical software with AI, full-stack development, voice
-intelligence, and automation.
-I like turning ideas into working demos---from web experiences to
-systems that process audio or automate repetitive business workflows.
-I'm currently strengthening my backend, database, and software
-engineering fundamentals while building projects that solve real
-problems.
-🔭 Currently building: Bhandafod, an AI-assisted voice analysis
-project.
-🧠 Exploring: Speech processing, LLM integrations, and AI
-agents.
-🛠️ Building with: React, Next.js, Python, FastAPI, and n8n.
-🎯 Goal: Build useful products, write cleaner code, and keep
-shipping.
-🤝 Open to: Software/AI internships, collaborations, and
-meaningful projects.
----
-🧰 Tech Stack
-Languages
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Python, JavaScript, HTML, CSS and Java" />`{=html}
-```{=html}
-</p>
-```
-Frontend & Backend
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi" alt="React, Next.js, Tailwind CSS, Node.js and FastAPI" />`{=html}
-```{=html}
-</p>
-```
-AI, Data & Automation
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=firebase,postgres,git,github,vercel" alt="Firebase, PostgreSQL, Git, GitHub and Vercel" />`{=html}
-```{=html}
-</p>
-```
-Also exploring: Whisper · SpeechBrain · librosa · n8n · REST APIs ·
-Webhooks · LLM integration
-> I keep learning by building. Some tools listed here are part of
-> ongoing projects or learning---not a claim of expert-level
-> proficiency.
----
-🚀 Featured Projects
-🛡️ Bhandafod --- Voice Fraud Analysis
-An ongoing project exploring audio analysis and speech transcription to
-help identify potentially suspicious or manipulated voice content.
-Working toward English and Hinglish transcription support.
-Exploring speech-processing models and audio features.
-Focused on a practical pipeline for analyzing audio and presenting
-understandable results.
-Stack: Python · Whisper · SpeechBrain · librosa · FastAPI (where
-implemented)
-```{=html}
-<!-- Replace YOUR_BHANDAFOD_REPO with the actual repository name when ready. -->
-```
-View
-repository
-☎️ AI Voice Receptionist & Business Automation
-A prototype concept for automating inbound business calls and connecting
-conversations to useful business workflows.
-Designed around FAQs, lead capture, appointment requests, and call
-logs.
-Exploring workflow connections using n8n, APIs, webhooks, and
-structured data.
-Intended to reduce repetitive admin work for small businesses.
-Stack: n8n · Voice-agent platform · APIs · Webhooks · Google Sheets
-```{=html}
-<!-- Replace YOUR_VOICE_AGENT_REPO with the actual repository name when ready. -->
-```
-View
-repository
-🌐 Full-Stack Websites
-Responsive websites and UI experiments built for client work, portfolio
-demos, and local-business use cases.
-Responsive layouts and reusable components.
-Modern UI/UX with deployment on platforms such as Vercel or Netlify.
-Practical experience refining requirements and iterating on designs.
-Stack: React · Next.js · JavaScript · CSS · Vercel · Netlify
-🎮 Minecraft-Inspired Developer Portfolio
-A creative portfolio concept using game-inspired navigation, interactive
-project showcases, and animation to make technical work more memorable.
-Stack: Next.js · React · JavaScript · CSS · Creative AI tools
----
-📊 GitHub Activity
-::: {align="center"}
-```{=html}
-<!-- These cards update automatically. If a service is temporarily unavailable, remove that card. -->
-```
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />`{=html}
-`<br/>`{=html}
-`<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />`{=html}
-:::
----
-🧭 What I'm Working On Improving
-Writing maintainable, testable code.
-Building reliable backend APIs and database-backed applications.
-Understanding model limitations and evaluating AI outputs properly.
-Shipping complete projects with clear documentation and demos.
-Practicing DSA and core computer science fundamentals.
----
-🤝 Let's Connect
-Have an interesting idea involving AI, voice technology, web apps, or
-automation? I'd be happy to connect and explore it.
-```{=html}
-<p align="left">
-```
-`<a href="https://github.com/YOUR_GITHUB_USERNAME">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" alt="GitHub" />`{=html}
-`</a>`{=html} `<a href="YOUR_LINKEDIN_URL">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />`{=html}
-`</a>`{=html} `<a href="mailto:YOUR_EMAIL">`{=html}
-`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-::: {align="center"}
-`Code` · `Automate` · `Build` · `Grow`
-Thanks for stopping by. More experiments coming soon!
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=100&section=footer" width="100%" alt="Animated blue footer" />`{=html}
-:::
-<!--
-**harshitmuit-lab/harshitmuit-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Harshit!
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Full-Stack+Developer;Building+AI-Powered+Applications;Voice+AI+%7C+Intelligent+Automation;Turning+Ideas+Into+Working+Products" alt="Animated introduction" />
+
+### 💻 AI & Full-Stack Developer | Computer & Data Science Student
+
+*Building intelligent systems, creative web experiences, and practical automation tools.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harshitmuit-lab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshitmuit@gmail.com)
+
+</div>
+
+---
+
+## ⚡ About Me
+
+```javascript
+const harshit = {
+    role: "AI & Full-Stack Developer",
+    education: "B.Tech — Computer & Data Science",
+    location: "India 🇮🇳",
+    interests: [
+        "Artificial Intelligence",
+        "Full-Stack Development",
+        "Voice AI & Speech Processing",
+        "Intelligent Automation"
+    ],
+    currentlyBuilding: [
+        "Bhandafod — AI Voice Fraud Analysis",
+        "AI Voice Receptionist Systems",
+        "Interactive Developer Portfolio"
+    ],
+    philosophy: "Learn. Build. Improve. Repeat."
+};
+```
+
+* 🧠 Exploring AI engineering, speech processing, and intelligent agents.
+* 🌐 Building responsive web applications with React and Next.js.
+* ⚙️ Connecting APIs, databases, and automation workflows.
+* 🎙️ Experimenting with audio analysis and voice intelligence.
+* 🚀 Focused on building practical projects and growing as a software engineer.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" alt="Frontend skills"/>
+</p>
+
+**Backend & Programming**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" alt="Backend skills"/>
+</p>
+
+**AI, Automation & Data**
+
+<p>
+<img src="https://img.shields.io/badge/Whisper-Speech%20Recognition-412991?style=flat-square" alt="Whisper"/>
+<img src="https://img.shields.io/badge/SpeechBrain-Audio%20AI-007ACC?style=flat-square" alt="SpeechBrain"/>
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/LLMs-AI%20Integration-7C3AED?style=flat-square" alt="LLM integration"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-009688?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Firestore-Database-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore"/>
+<img src="https://img.shields.io/badge/librosa-Audio%20Processing-2E8B57?style=flat-square" alt="librosa"/>
+</p>
+
+**Tools & Deployment**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify&theme=dark" alt="Development tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Bhandafod — Aawaz Ka Rakshak
+
+*AI-powered voice fraud analysis*
+
+Exploring how audio processing and speech intelligence can help analyze suspicious voice patterns and support safer digital communication.
+
+* 🎙️ English and Hinglish speech transcription.
+* 🔍 Audio feature extraction and speech-processing experiments.
+* 🧠 AI-assisted call analysis.
+* ⚡ Exploring local audio-processing pipelines.
+
+**Tech:** `Python` `Whisper` `SpeechBrain` `librosa` `FastAPI`
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github)](https://github.com/harshitmuit-lab?tab=repositories)
+
+### 🤖 AI Voice Receptionist & Business Automation
+
+*Making business communication smarter*
+
+An AI receptionist concept designed to automate routine customer interactions and streamline lead management.
+
+* ☎️ Inbound call handling and FAQ workflows.
+* 📅 Appointment-booking automation.
+* 📊 Call logs and lead qualification.
+* 🔄 CRM integrations and automated follow-ups.
+
+**Tech:** `n8n` `Voice AI` `APIs` `Webhooks` `Google Sheets`
+
+[![Explore Repositories](https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge\&logo=github)](https://github.com/harshitmuit-lab?tab=repositories)
+
+### 🌐 Full-Stack Web Development
+
+*Building for the real world*
+
+Developing business websites and interactive web experiences focused on usability, responsiveness, and modern design.
+
+* 🎨 Modern UI and reusable components.
+* 📱 Responsive desktop and mobile layouts.
+* 🚀 Deployment with Vercel and Netlify.
+* 💼 Client-oriented website concepts and freelance projects.
+
+**Tech:** `React` `Next.js` `JavaScript` `CSS` `Vercel` `Netlify`
+
+[![My Repositories](https://img.shields.io/badge/My%20Repositories-181717?style=for-the-badge\&logo=github)](https://github.com/harshitmuit-lab?tab=repositories)
+
+### ⛏️ Minecraft-Inspired Developer Portfolio
+
+*An interactive portfolio with a creative twist*
+
+A portfolio concept inspired by Minecraft's environments and game mechanics.
+
+* 🧱 Game-inspired navigation and interface.
+* 🎮 Creative project showcases.
+* 🎬 Animated character sequences.
+* ✨ Experimental frontend interactions.
+
+**Tech:** `Next.js` `React` `JavaScript` `CSS`
+
+[![Visit GitHub](https://img.shields.io/badge/Visit%20GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/harshitmuit-lab)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshitmuit-lab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmuit-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=harshitmuit-lab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+* 📚 Strengthening Java, DSA, and problem-solving skills.
+* 🧠 Building practical AI-powered applications.
+* 🔧 Improving backend development and database design.
+* 🎙️ Exploring real-time voice intelligence.
+* ⚙️ Creating useful automation systems.
+* 🌍 Contributing to open source and collaborating with developers.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, AI enthusiasts, founders, and people building useful technology.
+
+Have an interesting project, collaboration idea, or opportunity? Let's connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harshitmuit-lab)
+[![Email](https://img.shields.io/badge/Let's%20Build%20Something-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshitmuit@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+**“Build things that work. Keep learning. Make an impact.”** 🚀
+
+</div>
