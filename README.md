@@ -83,67 +83,167 @@ const harshit = {
 
 ## 🚀 Featured Projects
 
-### 🛡️ Bhandafod — Aawaz Ka Rakshak
+<div align="center">
 
-*AI-powered voice fraud analysis*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Exploring how audio processing and speech intelligence can help analyze suspicious voice patterns and support safer digital communication.
+<h3 align="center">🛡️ Bhandafod</h3>
 
-* 🎙️ English and Hinglish speech transcription.
-* 🔍 Audio feature extraction and speech-processing experiments.
-* 🧠 AI-assisted call analysis.
-* ⚡ Exploring local audio-processing pipelines.
+<div align="center">
 
-**Tech:** `Python` `Whisper` `SpeechBrain` `librosa` `FastAPI`
+<img src="https://img.shields.io/badge/AI-Voice%20Intelligence-7C3AED?style=for-the-badge" />
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github)](https://github.com/harshitmuit-lab?tab=repositories)
+</div>
 
-### 🤖 AI Voice Receptionist & Business Automation
+<p align="center">
+An AI-powered voice analysis project exploring suspicious audio patterns, speech transcription, and safer digital communication.
+</p>
 
-*Making business communication smarter*
+**Highlights**
 
-An AI receptionist concept designed to automate routine customer interactions and streamline lead management.
+* 🎙️ English & Hinglish transcription
+* 🔍 Audio feature extraction
+* 🧠 Speech-processing experiments
+* ⚡ Exploring local processing
 
-* ☎️ Inbound call handling and FAQ workflows.
-* 📅 Appointment-booking automation.
-* 📊 Call logs and lead qualification.
-* 🔄 CRM integrations and automated follow-ups.
+**Tech Stack**
 
-**Tech:** `n8n` `Voice AI` `APIs` `Webhooks` `Google Sheets`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/SpeechBrain-007ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/librosa-2E8B57?style=flat-square"/>
+</p>
 
-[![Explore Repositories](https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge\&logo=github)](https://github.com/harshitmuit-lab?tab=repositories)
+<a href="https://github.com/harshitmuit-lab?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🌐 Full-Stack Web Development
+</td>
+<td width="50%" valign="top">
 
-*Building for the real world*
+<h3 align="center">🤖 AI Voice Receptionist</h3>
 
-Developing business websites and interactive web experiences focused on usability, responsiveness, and modern design.
+<div align="center">
 
-* 🎨 Modern UI and reusable components.
-* 📱 Responsive desktop and mobile layouts.
-* 🚀 Deployment with Vercel and Netlify.
-* 💼 Client-oriented website concepts and freelance projects.
+<img src="https://img.shields.io/badge/Automation-Voice%20AI-00A884?style=for-the-badge" />
 
-**Tech:** `React` `Next.js` `JavaScript` `CSS` `Vercel` `Netlify`
+</div>
 
-[![My Repositories](https://img.shields.io/badge/My%20Repositories-181717?style=for-the-badge\&logo=github)](https://github.com/harshitmuit-lab?tab=repositories)
+<p align="center">
+An intelligent receptionist concept for automating inbound calls, lead qualification, appointment workflows, and customer follow-ups.
+</p>
 
-### ⛏️ Minecraft-Inspired Developer Portfolio
+**Highlights**
 
-*An interactive portfolio with a creative twist*
+* ☎️ Call-handling workflows
+* 📅 Appointment automation
+* 📊 Lead tracking & call logs
+* 🔄 CRM and webhook integrations
 
-A portfolio concept inspired by Minecraft's environments and game mechanics.
+**Tech Stack**
 
-* 🧱 Game-inspired navigation and interface.
-* 🎮 Creative project showcases.
-* 🎬 Animated character sequences.
-* ✨ Experimental frontend interactions.
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/APIs-Integration-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Webhooks-Automation-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+</p>
 
-**Tech:** `Next.js` `React` `JavaScript` `CSS`
+<a href="https://github.com/harshitmuit-lab?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![Visit GitHub](https://img.shields.io/badge/Visit%20GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/harshitmuit-lab)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Full-Stack Web Development</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Web-Development-0070F3?style=for-the-badge" />
+
+</div>
+
+<p align="center">
+Responsive websites and interactive web experiences designed around usability, modern interfaces, and real business requirements.
+</p>
+
+**Highlights**
+
+* 🎨 Modern UI & reusable components
+* 📱 Responsive design
+* 🚀 Website deployment
+* 💼 Freelance & demo projects
+
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+<a href="https://github.com/harshitmuit-lab?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">⛏️ Minecraft Portfolio</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Creative%20UI-Interactive%20Portfolio-00C7B7?style=for-the-badge" />
+
+</div>
+
+<p align="center">
+An experimental developer portfolio inspired by Minecraft, combining game-inspired environments with creative project storytelling.
+</p>
+
+**Highlights**
+
+* 🧱 Minecraft-inspired interface
+* 🎮 Interactive project showcases
+* 🎬 Animated character sequences
+* ✨ Creative navigation concepts
+
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/>
+</p>
+
+<a href="https://github.com/harshitmuit-lab">
+<img src="https://img.shields.io/badge/Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
+
+<div align="center">
+
+### 💡 More than code — building things that solve problems.
+
+*AI · Full-Stack · Voice Intelligence · Automation*
+
+</div>
+
 
 ## 📊 GitHub Analytics
 
